@@ -53,7 +53,7 @@ def highestPeak(grid):
     return grid
 ```
 
-**Time and Space complexity:**
+**Complexities:**
 - Time Complexity: O(m x n), BFS will visit each cell exactly once, for each cell, we processes it and its neighbors
 - Space Complexity: 2 * O(m x n), for storing cells to queue and also to visited cells
 
