@@ -1,4 +1,4 @@
-### [1. Cafeteria](https://www.metacareers.com/profile/coding_puzzles?puzzle=203188678289677)
+### [1.1 Cafeteria](https://www.metacareers.com/profile/coding_puzzles?puzzle=203188678289677)
 
 ## Approach: Sorting + Greedy
 
